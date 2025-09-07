@@ -77,7 +77,7 @@ group :development do
 end
 
 group :test do
-  gem "feedjira", "~> 3.2"
+  gem "feedjira", "~> 4.0"
   gem "launchy", "~> 3.0"
   gem "rails-controller-testing", "~> 1.0.1"
   gem "shoulda-matchers", "~> 6.0"
